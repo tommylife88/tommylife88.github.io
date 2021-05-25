@@ -1,7 +1,0 @@
-baseURL = "https://tommylife88.github.io/tommy.dev/"
-languageCode = "ja-jp"
-title = "My New Hugo Site"
-theme = "hugo-tania"
-
-# setting for GitHub Pages
-publishDir = "docs"
