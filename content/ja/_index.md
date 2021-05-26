@@ -5,7 +5,7 @@ header:
       - typeString: tommy.dev
       - pauseFor: 2500
       - deleteAll: true
-      - typeString: my developers site
+      - typeString: My tech blog site
       - pauseFor: 2500
       - deleteChars: true
     options:
@@ -25,7 +25,7 @@ header:
     title:
       - tommy.dev
     subtitle:
-      - my developers site
+      - My tech blog site
     titleColor: 
     titleShadow: true
     titleFontSize: 44
@@ -46,7 +46,7 @@ header:
     title:
       - tommy.dev
     subtitle:
-      - my developers site
+      - My tech blog site
     titleColor:
     titleShadow: false
     titleFontSize: 44
