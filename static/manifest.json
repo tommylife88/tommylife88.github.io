@@ -4,7 +4,7 @@
   "short_name": "tommy.dev",
   "version": "1.0.0",
   "default_locale": "ja",
-  "description": "developers site",
+  "description": "My tech blog website",
   "start_url": "https://tommylife88.github.io/tommy.dev/",
   "icons": [
     {

@@ -1,6 +1,6 @@
 logoText = "tommy.dev"
 logoType = "short" # long, short
-description = "developers site."
+description = "My tech blog website."
 custom_css = []
 custom_js = []
 useFaviconGenerator = true # https://www.favicon-generator.org/
@@ -62,7 +62,7 @@ typeIcon = "🎯"
 # whoami
 myname = "tommy"
 email = ""
-whoami = "Web Developer"
+whoami = "平凡なエンジニア⭐組み込み⭐インフラ（LPIC-3(304)ホルダー）⭐フロントエンド （趣味程度）"
 bioImageUrl = ""
 useGravatar = false
 location = "Kanazawa, Japan"
