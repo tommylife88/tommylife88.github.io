@@ -8,6 +8,11 @@ Building by [hugo](https://gohugo.io/).
 
 See [here](https://gohugo.io/commands/).
 
+```bash
+#start the Hugo server with drafts enabled:
+$ hugo server -D
+```
+
 ## CI/CD
 
 Use GitHub Actions.
