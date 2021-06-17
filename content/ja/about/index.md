@@ -5,50 +5,42 @@ type: about
 date: 2021-05-26
 ---
 
-from [GitHub README](https://github.com/tommylife88/tommylife88)
+制定日：2021年6月17日
+最終改定日：2021年6月17日
 
-Embedded System engineer.
+## 運営者
 
-* 👀 I’m interested in web development ...
-* 🌱 I’m currently learning React, TypeScript ...
-* 🎶 ONE OK ROCK
+### About Me
 
-## My Skills
-Skill set
+* tommy 
+see [GitHub README](https://github.com/tommylife88/tommylife88)
 
-### Language
-* ![](https://img.shields.io/badge/-C-A8B9CC.svg?logo=C&style=flat)
-* ![](https://img.shields.io/badge/-C++-00599C.svg?logo=C%2B%2B&style=flat)
-* ![](https://img.shields.io/badge/-Javascript-276DC3.svg?logo=javascript&style=flat)
-* ![](https://img.shields.io/badge/-TypeScript-007ACC.svg?logo=typescript&style=flat)
-
-### Middleware
-* ![](https://img.shields.io/badge/-ROS-22314E.svg?logo=ros&style=flat)
-* ![](https://img.shields.io/badge/-Vagrant-1563FF.svg?logo=vagrant&style=flat)
-
-### Framework , Library
-* ![](https://img.shields.io/badge/-Qt-41CD52.svg?logo=qt&style=flat)
-* ![](https://img.shields.io/badge/-Node.js-339933.svg?logo=node.js&style=flat)
-* ![](https://img.shields.io/badge/-React-555.svg?logo=react&style=flat)
-
-### Tools
-* ![](https://img.shields.io/badge/-Git-F05032.svg?logo=git&style=flat)
-* ![](https://img.shields.io/badge/-GitHub-181717.svg?logo=github&style=flat)
-* ![](https://img.shields.io/badge/-GitLab-FCA121.svg?logo=gitlab&style=flat)
-* ![](https://img.shields.io/badge/-Docker-EEE.svg?logo=docker&style=flat)
-* ![](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC.svg?logo=visual-studio-code&style=flat)
-
-### OS
-* ![](https://img.shields.io/badge/-Windows-0078D6.svg?logo=windows&style=flat)
-* ![](https://img.shields.io/badge/-Linux-FCC624.svg?logo=linux&style=)
-
-## GitHub Status
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tommylife88&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-## Certifications
-![LPIC-1-IconSize](https://user-images.githubusercontent.com/29136901/116383075-7c876f00-a851-11eb-98ce-1c4058e2a8ab.png)
-![LPIC-2-IconSize](https://user-images.githubusercontent.com/29136901/116383126-8a3cf480-a851-11eb-91eb-2dd57390c293.png)
-![LPIC-3-304-IconSize](https://user-images.githubusercontent.com/29136901/116383157-9032d580-a851-11eb-84b5-f27c76a3b94c.png)
-
-## Social
+### Social
 [![Twitter Follow](https://img.shields.io/twitter/follow/TommyLife88?style=social)](https://twitter.com/TommyLife88)
+
+## プライバシーポリシー
+
+### 個人情報の利用目的
+
+当ブログでは、お問い合わせや記事へのコメントの際、名前やメールアドレス等の個人情報を入力いただく場合がございます。  
+取得した個人情報は、お問い合わせに対する回答や必要な情報を電子メールなどをでご連絡する場合に利用させていただくものであり、これらの目的以外では利用いたしません。
+
+### アクセス解析ツールについて
+
+当ブログでは、Googleによるアクセス解析ツール「Googleアナリティクス」を利用しています。このGoogleアナリティクスはトラフィックデータの収集のためにクッキー（Cookie）を使用しております。トラフィックデータは匿名で収集されており、個人を特定するものではありません。
+
+## 免責事項
+
+当ブログからのリンクやバナーなどで移動したサイトで提供される情報、サービス等について一切の責任を負いません。  
+また当ブログのコンテンツ・情報について、できる限り正確な情報を提供するように努めておりますが、正確性や安全性を保証するものではありません。情報が古くなっていることもございます。  
+当サイトに掲載された内容によって生じた損害等の一切の責任を負いかねますのでご了承ください。
+
+## 著作権について
+
+当ブログで掲載している文章や画像などにつきましては、無断転載することを禁止します。  
+当ブログは著作権や肖像権の侵害を目的としたものではありません。著作権や肖像権に関して問題がございましたら、お問い合わせフォームよりご連絡ください。迅速に対応いたします。
+
+## リンクについて
+
+当ブログは基本的にリンクフリーです。リンクを行う場合の許可や連絡は不要です。  
+ただし、インラインフレームの使用や画像の直リンクはご遠慮ください。
