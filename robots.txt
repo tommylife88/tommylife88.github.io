@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://tommylife88.github.io/tommy.dev/sitemap.xml
