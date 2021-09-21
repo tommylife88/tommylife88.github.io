@@ -13,7 +13,7 @@ categories:
 
 ローカル環境は「Local By Flywheel」で構築します。
 
-[ローカル環境にWordPress環境を構築する方法]({{< ref "/posts/2018-03-01-wp-setup-local.md" >}})  
+[ローカル環境にWordPress環境を構築する方法]({{< ref "/posts/2018/2018-03-01-wp-setup-local.md" >}})  
 を参考にして下さい。
 
 本番環境→ローカル環境に複製する手順としては、

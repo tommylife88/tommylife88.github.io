@@ -9,8 +9,7 @@ tags:
 
 Windowsのパフォーマンスモニタツールの一部カウンターが選択できなくなった。
 
-[サーバー 2008 64 ビットまたは Windows Server 2008 R2 システムのパフォーマンス カウンター Windows手動で再構築する](https://docs.microsoft.com/ja-jp/troubleshoot/windows-server/performance/manually-rebuild-performance-counters)には、
-データベースが破損し再構築が必要になる場合がある、らしい。
+[サーバー 2008 64 ビットまたは Windows Server 2008 R2 システムのパフォーマンス カウンター Windows手動で再構築する](https://docs.microsoft.com/ja-jp/troubleshoot/windows-server/performance/manually-rebuild-performance-counters)には、データベースが破損し再構築が必要になる場合がある、らしい。
 
 そこで、パフォーマンスモニタツールのカウンターを手動で復元する。  
 以下のコマンドを実行すれば、ライブラリのDBを再構築して修復されるらしい。

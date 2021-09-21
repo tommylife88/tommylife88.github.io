@@ -9,7 +9,7 @@ categories:
 - WEB
 ---
 
-[Redmine 4.0をUbuntu 18.04 LTS Serverにインストールする手順]({{< ref "/posts/2020-01-15-install-redmine-to-ubuntu1804.md" >}})  
+[Redmine 4.0をUbuntu 18.04 LTS Serverにインストールする手順]({{< ref "/posts/2020/2020-01-15-install-redmine-to-ubuntu1804.md" >}})  
 で構築したRedmineをアップデート／バージョンアップする。
 
 ## アップデート準備
