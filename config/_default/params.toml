@@ -62,10 +62,10 @@ typeIcon = "🎯"
 # whoami
 myname = "tommy"
 email = ""
-whoami = "平凡なエンジニア⭐組み込み⭐インフラ（LPIC-3(304)ホルダー）⭐フロントエンド （趣味程度）"
+whoami = "Software engineer⭐LPIC-3(304)⭐"
 bioImageUrl = ""
 useGravatar = false
-location = "Kanazawa, Japan"
+location = "Japan"
 organization = ""
 link = "https://github.com/tommylife88"
 
