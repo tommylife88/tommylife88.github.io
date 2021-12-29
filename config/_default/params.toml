@@ -4,7 +4,7 @@ description = "My tech blog website."
 custom_css = []
 custom_js = []
 useFaviconGenerator = true # https://www.favicon-generator.org/
-meta_image = ""
+meta_image = "images/whoami/avatar.jpg"
 themecolor = ""
 
 themeOptions = ["dark", "light", "hacker", "solarized", "kimbie"]
