@@ -5,7 +5,7 @@
   "version": "1.0.0",
   "default_locale": "ja",
   "description": "My tech blog website",
-  "start_url": "https://tommylife88.github.io/tommy.dev/",
+  "start_url": "https://tommylife88.github.io/",
   "icons": [
     {
       "src": "favicon/android-icon-36x36.png",
@@ -53,7 +53,7 @@
       "src": "logo.png",
       "sizes": "48x48",
       "type": "image/png"
-    }
+    },
     {
       "src": "logo-192.png",
       "sizes": "192x192",
