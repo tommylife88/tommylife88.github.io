@@ -1,6 +1,6 @@
 # tommy.dev
 
-<https://tommylife88.github.io/tommy.dev/>
+<https://tommylife88.github.io/>
 
 Building by [hugo](https://gohugo.io/).
 
